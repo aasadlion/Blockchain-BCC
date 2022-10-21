@@ -1,6 +1,14 @@
   # BLOCKCHAIN SPECIALIST
 ### All Four Quarters of Blockchain Course Work
 
+
+Batch: Batch 37 
+Status: LEARNING
+Quarter: Q1 
+Currently: Online 
+
+
+
 ## Program Structure
 
 ### Technical Track
